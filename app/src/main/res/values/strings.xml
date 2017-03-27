@@ -15,4 +15,8 @@
     <string name="btn_login">Login</string>
     <string name="btn_link_signup">Don\'t have an account yet Register !!</string>
     <string name="btn_link_login">Already have an account Login !!</string>
+    <string name="description">Inserire le proprie credenziali per un punto di
+        situazione sull\'evento. Se non le possiedi ancora prosegui con il pulsante
+        in basso per la tua registrazione al sistema RSS</string>
+    <string name="button_get">GET</string>
 </resources>
