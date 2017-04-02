@@ -3,30 +3,12 @@
 
     <item
         is-multidex="true"
-        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
-        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_6281bb2f87b64691120f1e62e0bdf06e9078c25e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7b8bac4bc329d982e15e545cae6e7c48431f78d9">
-        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_59c1e02ce30158896d3ee9291496d449fe5c072b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_e0010f16752a7c30109e0a6d432b6dfdadd1a845/classes.dex" />
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_f581d9b50caa57a9930b6b784861a43c1587e888/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -39,12 +21,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="3a1592f93ddf2ded9c1c45a1a7f643b58cc9cda3">
-        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_21464cc17bddeb8cb3846cafdd27c785acf967cb/classes.dex" />
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.1_045e9aa1e4002a9126124d209aae677a00aee690/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.0.1_98894f2bd79982407156b6f5b53380b72996db29/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -57,21 +48,381 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
-        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_eacf6b72c994470874785b31761492b76bfe27f4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/Aron/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
         <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_4c151696dd8d5827f180363763f6f0e9700f5add/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.0.1_fe74605a0da60c0cffdd02f48d548a556a1969eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.0.1_3055dbc3e2cbc2ddfbfd0b7c8b8dbff80d51319d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.0.1_f6b439cd8027b8e6f8f869d140ba40bee8f5a17f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_3d4b228201fc32ebe1bd0addb73c469bba7b1906/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.0.1_89329f03b5cbf9aa87c587e71bbe489d3c52a794/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.0.1_2add684c960f4c2da2f07332ccdcca7712e25c7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.0.1_23469227d68d0f3d4597d3979528646bd157f9b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.1_cbcfa53dfcddacdcc3168d33397c3b966485a4a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.0.1_5a06a80d27468027d0b1f46f8c86d7e2c22492af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.0.1_7bf4e2cf9c685f099eccfcb74b26244642134c0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.0.1_58a6f691d1accc825f73c49bb34a3f65651eb46f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.1_31165faae890cecd1d5be1c50b3e7bbfe91bc330/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.0.1_0f8bf3af2e4cd3e7e0c5feaf331959c0107245e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_46070889819ab6bed91d64a88760489be133d898/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.0.1_9ba7e69e04eed68cd489262059cfe62c9d2e498f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_e0010f16752a7c30109e0a6d432b6dfdadd1a845/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.0.1_aca129e134730f0318d5e8ed85ad522c67c6fb99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_eb69a686bd502f33bfbac6ea3d5c866af7b13c75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_f6bc812871a069f283bf71a1f2fc84e02a2bf1e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.0.1_cae2733bbe3947bbe9ab854dc8d3be29f666c909/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.0.1_42eb7c4f7347a0636b1f1fa645f1b663b2acbfda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_30296ebf83be7dc67da58b77c7af43e140441789/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.0.1_cdb9555a42b22185015bf4656368a942c64e11c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_59b4e4ab10cf4278047738f58119aa66e8ccb99f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_8ac42ab74435210676043f498b2d9b77ddb1053d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.0.1_3f127ba10f27e31ed0ad2f8cb01107864f409d3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_427c3e4cf741a877601530f5460f3a343c423e86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_fa6afa56d557c95a65fead836af05a5b59a8a200/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.0.1_1961309a9440b10433119a5e0e5ce7f5dff767ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_2b21dd8c8f44b69647290a54ea344fda55c04f2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.0.1_d55c0a0376a89bfd1bd8c9f86ccf997e1991d595/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.0.1_ffe8631be677e0d515b92a02a6f53e4b3600c2e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_6281bb2f87b64691120f1e62e0bdf06e9078c25e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_2057f3d7b19fe86c944651680e2d146ef0e2fd46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_f388e8eba34fb64ad76246c96c4a09cd7aa588e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_158b74e8132d7e4d0e993abb93ba5170f132f5c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfc4e6db9b54fefa620ed6cb370f48825ad756ee">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_59c1e02ce30158896d3ee9291496d449fe5c072b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.0.1_ce532f57e7f2f31425a3dcdd51c41c4721255c18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.0.1_508879c6a339ea217fc2b7dcd3c3b47fc7c093af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae3809b92bc2f38a0b03b30db76b0ab0a3d50b5c">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_21464cc17bddeb8cb3846cafdd27c785acf967cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.0.1_537dff6d3e54d22df20c2a6c19141a2d69c11879/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -102,48 +453,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
-        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_5c80c48c21b3dcb415c521a238340d5b5f6c92f7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
-        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_eb69a686bd502f33bfbac6ea3d5c866af7b13c75/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
-        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_f6bc812871a069f283bf71a1f2fc84e02a2bf1e2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
         <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_4cc8cf0d89cb5bc2b0c78013808345bcff6a233d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_3d4b228201fc32ebe1bd0addb73c469bba7b1906/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -156,30 +471,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_30296ebf83be7dc67da58b77c7af43e140441789/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
-        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_8ac42ab74435210676043f498b2d9b77ddb1053d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
-        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_fa6afa56d557c95a65fead836af05a5b59a8a200/classes.dex" />
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.0.1_e5f563f7b42a31bfd8bd23b432e11336a71b73e5/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -192,39 +489,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
-        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_7a7c31f370d4c092a98fc9c7f5a77e535cc068fb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
-        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_2b21dd8c8f44b69647290a54ea344fda55c04f2f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
-        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.0.1_5a06a80d27468027d0b1f46f8c86d7e2c22492af/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_9fbd4274aa8f11cae185c4fc6173ca14aef23675/classes.dex" />
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_09dc6b337400ab5a39182451844865359faac4a2/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -246,12 +516,111 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_46070889819ab6bed91d64a88760489be133d898/classes.dex" />
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.0.1_786a4c90552fffeb42b3ff24bb265a2a1c85fb8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.0.1_f7796f6270a2a7e4654c9518727b1fb56dd74200/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_eacf6b72c994470874785b31761492b76bfe27f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_5c80c48c21b3dcb415c521a238340d5b5f6c92f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_c9c13722c9c3f6f5f25839815f1ffa224ff34759/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_7a7c31f370d4c092a98fc9c7f5a77e535cc068fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.0.1_df530cc5a4bab0e1197bb2f56f35baddff7555bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_9fbd4274aa8f11cae185c4fc6173ca14aef23675/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.0.1_306e1111c35482bd4e4c9d486a40bfa8b29350d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.0.1_f3ba29d6b150a59d4b5aa2d04e998996b7429369/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_e4cf42d75128980deedc072d21fc64bf57d0ba0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/Users/Aron/Desktop/Development/Apps/Real App/RSS2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.0.1_acabcf331edb103fd46fa0d49bc572387fac9a7a/classes.dex" />
     </item>
 
 </items>

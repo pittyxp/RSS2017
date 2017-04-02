@@ -1,9 +1,10 @@
 <resources>
-    <string name="app_name">RSS 2017 Admin</string>
+    <string name="app_name">RSS 2017 APP</string>
     <string name="hint_dob">Enter Age</string>
     <string name="hint_password">Password</string>
     <string name="hint_email">Email</string>
     <string name="hint_gender">I am</string>
+    <string name="hint_username">Username</string>
     <string name="male">Male</string>
     <string name="female">Female</string>
     <string name="btn_sign_up">Register !!</string>
@@ -13,10 +14,15 @@
     <string name="err_msg_password">Enter a Password</string>
     <string name="err_msg_dob">Enter a valid D.O.B</string>
     <string name="btn_login">Login</string>
-    <string name="btn_link_signup">Don\'t have an account yet Register !!</string>
+    <string name="btn_link_signup_admin">Don\'t have an account yet?</string>
+    <string name="btn_link_signup">!! TEST PER EVENTUALE FORM !!</string>
     <string name="btn_link_login">Already have an account Login !!</string>
-    <string name="description">Inserire le proprie credenziali per un punto di
-        situazione sull\'evento. Se non le possiedi ancora prosegui con il pulsante
-        in basso per la tua registrazione al sistema RSS</string>
+    <string name="description_login">Inserisci le credenziali che hai ricevuto via email
+        per proseguire con il form di registrazione all\'evento. \n Se non le hai ancora ricevute o
+        le hai smarrite contatta il supporto all\'indirizzo rssvenezia2017@marina.difesa.it</string>
+    <string name="welcome">Benvenuto nell\'APP del Regional Seapower Symposium 2017.
+        Da qui potrai accedere all\'area amministratore o all\'area utente. Procedi con l\'area
+        di tua pertinenza!!!</string>
     <string name="button_get">GET</string>
+    <string name="title_activity_test_maps">Map</string>
 </resources>

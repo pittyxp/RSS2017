@@ -59,7 +59,7 @@ public class RegisterActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
-                Intent i = new Intent(getApplicationContext(),LoginActivity.class);
+                Intent i = new Intent(getApplicationContext(),AdminLoginActivity.class);
                 startActivity(i);
             }
         });
@@ -108,7 +108,7 @@ public class RegisterActivity extends AppCompatActivity {
                         // Launch login activity
                         Intent intent = new Intent(
                                 RegisterActivity.this,
-                                LoginActivity.class);
+                                AdminLoginActivity.class);
                         startActivity(intent);
                         finish();
                     } else {
